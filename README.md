@@ -18,7 +18,7 @@ Based on the Cross-Industry Standard Process of Data Mining (CRISP-DM), a loan d
 - NumPy
 - Pandas
 - Seaborn
-- Matplotli
+- Matplotlib
 
 No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
 
